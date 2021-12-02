@@ -11,6 +11,7 @@ import SwiftUI
 struct DINOApp: App {
     var body: some Scene {
         WindowGroup {
+            khbkbkbnbkbj
             ContentView()
         }
     }
